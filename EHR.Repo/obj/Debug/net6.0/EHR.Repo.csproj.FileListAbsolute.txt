@@ -1,0 +1,17 @@
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\bin\Debug\net6.0\EHR.Repo.deps.json
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\bin\Debug\net6.0\EHR.Repo.runtimeconfig.json
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\bin\Debug\net6.0\EHR.Repo.dll
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\bin\Debug\net6.0\EHR.Repo.pdb
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.csproj.AssemblyReference.cache
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.AssemblyInfoInputs.cache
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.AssemblyInfo.cs
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.dll
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\refint\EHR.Repo.dll
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.pdb
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.genruntimeconfig.cache
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\ref\EHR.Repo.dll
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\bin\Debug\net6.0\EHR.Domain.dll
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\bin\Debug\net6.0\EHR.Domain.pdb
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Repo\obj\Debug\net6.0\EHR.Repo.csproj.CopyComplete

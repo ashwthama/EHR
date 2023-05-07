@@ -1,0 +1,14 @@
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\bin\Debug\net6.0\EHR.ViewModel.deps.json
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\bin\Debug\net6.0\EHR.ViewModel.runtimeconfig.json
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\bin\Debug\net6.0\EHR.ViewModel.dll
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\bin\Debug\net6.0\EHR.ViewModel.pdb
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.AssemblyInfo.cs
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.dll
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\refint\EHR.ViewModel.dll
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.pdb
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.genruntimeconfig.cache
+C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\ref\EHR.ViewModel.dll
