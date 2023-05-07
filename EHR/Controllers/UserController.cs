@@ -1,5 +1,6 @@
 ﻿using EHR.Domain.Model;
 using EHR.Service.UserServices;
+using EHR.ViewModel.UserVM;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -36,10 +37,10 @@ namespace EHR.Controllers
             _userService.RegisterUser(user);
         }
 
-        [HttpGet("login")]
-        public User Login(string username, string password)
+        [HttpPost("login")]
+        public User Login([FromBody]LoginUserVM login)
         {
-            return _userService.LoginUser(username, password);
+            return _userService.LoginUser(login.UserName,login.Password);
         }
     }
 }

@@ -19,6 +19,7 @@
   <ItemGroup>
     <ProjectReference Include="..\EHR.Domain\EHR.Domain.csproj" />
     <ProjectReference Include="..\EHR.Service\EHR.Service.csproj" />
+    <ProjectReference Include="..\EHR.ViewModel\EHR.ViewModel.csproj" />
   </ItemGroup>
 
 </Project>

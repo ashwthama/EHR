@@ -12,3 +12,17 @@ C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\refint\EH
 C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.pdb
 C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.genruntimeconfig.cache
 C:\Users\Ashwani Kumar\source\repos\EHR\EHR.ViewModel\obj\Debug\net6.0\ref\EHR.ViewModel.dll
+F:\Git\EHR\EHR.ViewModel\bin\Debug\net6.0\EHR.ViewModel.deps.json
+F:\Git\EHR\EHR.ViewModel\bin\Debug\net6.0\EHR.ViewModel.runtimeconfig.json
+F:\Git\EHR\EHR.ViewModel\bin\Debug\net6.0\EHR.ViewModel.dll
+F:\Git\EHR\EHR.ViewModel\bin\Debug\net6.0\EHR.ViewModel.pdb
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.csproj.AssemblyReference.cache
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.AssemblyInfoInputs.cache
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.AssemblyInfo.cs
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.csproj.CoreCompileInputs.cache
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.dll
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\refint\EHR.ViewModel.dll
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.pdb
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\EHR.ViewModel.genruntimeconfig.cache
+F:\Git\EHR\EHR.ViewModel\obj\Debug\net6.0\ref\EHR.ViewModel.dll

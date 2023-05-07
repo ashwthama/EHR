@@ -983,6 +983,20 @@
         "runtime": {
           "bin/placeholder/EHR.Service.dll": {}
         }
+      },
+      "EHR.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0-preview.3.23174.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.3.23174.2"
+        },
+        "compile": {
+          "bin/placeholder/EHR.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EHR.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -2972,12 +2986,18 @@
       "type": "project",
       "path": "../EHR.Service/EHR.Service.csproj",
       "msbuildProject": "../EHR.Service/EHR.Service.csproj"
+    },
+    "EHR.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../EHR.ViewModel/EHR.ViewModel.csproj",
+      "msbuildProject": "../EHR.ViewModel/EHR.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "EHR.Domain >= 1.0.0",
       "EHR.Service >= 1.0.0",
+      "EHR.ViewModel >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.0-preview.3.23174.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0-preview.3.23174.2",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0-preview.3.23174.2",
@@ -3016,6 +3036,9 @@
             },
             "F:\\Git\\EHR\\EHR.Service\\EHR.Service.csproj": {
               "projectPath": "F:\\Git\\EHR\\EHR.Service\\EHR.Service.csproj"
+            },
+            "F:\\Git\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj": {
+              "projectPath": "F:\\Git\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj"
             }
           }
         }

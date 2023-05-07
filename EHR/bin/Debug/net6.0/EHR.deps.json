@@ -10,6 +10,7 @@
         "dependencies": {
           "EHR.Domain": "1.0.0",
           "EHR.Service": "1.0.0",
+          "EHR.ViewModel": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0-preview.3.23174.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.3.23174.2",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.0-preview.3.23174.2",
@@ -716,6 +717,15 @@
         "runtime": {
           "EHR.Service.dll": {}
         }
+      },
+      "EHR.ViewModel/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0-preview.3.23174.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.3.23174.2"
+        },
+        "runtime": {
+          "EHR.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -1198,6 +1208,11 @@
       "sha512": ""
     },
     "EHR.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EHR.ViewModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

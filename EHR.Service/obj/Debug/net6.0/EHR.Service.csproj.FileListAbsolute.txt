@@ -17,3 +17,22 @@ C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Service\bin\Debug\net6.0\EHR.Repo.dl
 C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Service\bin\Debug\net6.0\EHR.Repo.pdb
 C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Service\bin\Debug\net6.0\EHR.Domain.pdb
 C:\Users\Ashwani Kumar\source\repos\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.csproj.CopyComplete
+F:\Git\EHR\EHR.Service\bin\Debug\net6.0\EHR.Service.deps.json
+F:\Git\EHR\EHR.Service\bin\Debug\net6.0\EHR.Service.runtimeconfig.json
+F:\Git\EHR\EHR.Service\bin\Debug\net6.0\EHR.Service.dll
+F:\Git\EHR\EHR.Service\bin\Debug\net6.0\EHR.Service.pdb
+F:\Git\EHR\EHR.Service\bin\Debug\net6.0\EHR.Domain.dll
+F:\Git\EHR\EHR.Service\bin\Debug\net6.0\EHR.Repo.dll
+F:\Git\EHR\EHR.Service\bin\Debug\net6.0\EHR.Repo.pdb
+F:\Git\EHR\EHR.Service\bin\Debug\net6.0\EHR.Domain.pdb
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.csproj.AssemblyReference.cache
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.AssemblyInfoInputs.cache
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.AssemblyInfo.cs
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.csproj.CoreCompileInputs.cache
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.csproj.CopyComplete
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.dll
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\refint\EHR.Service.dll
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.pdb
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\EHR.Service.genruntimeconfig.cache
+F:\Git\EHR\EHR.Service\obj\Debug\net6.0\ref\EHR.Service.dll
