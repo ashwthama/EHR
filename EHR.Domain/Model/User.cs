@@ -19,7 +19,7 @@ namespace EHR.Domain.Model
         public string Usertype { get; set; }
         public string Address { get; set; }
         public string Occupation { get; set; }
-
+        public string ProfileImg { get; set; }
 
     }
 }
