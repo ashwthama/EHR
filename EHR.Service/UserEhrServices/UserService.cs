@@ -25,7 +25,16 @@ namespace EHR.Service.UserServices
         }
         public void RegisterUser(User userValue)
         {
-            _userRepository.RegisterUser(userValue);
+            var existingUser = _userRepository.GetByUserId(userValue.UserId);
+            if(existingUser != null)
+            {
+                _userRepository.UpdateUser(existingUser, userValue);
+            }
+            else
+            {
+                _userRepository.RegisterUser(userValue);
+            }
+            
         }
 
         public User LoginUser(string username, string password)

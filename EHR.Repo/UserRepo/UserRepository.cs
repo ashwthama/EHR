@@ -34,5 +34,11 @@ namespace EHR.Repo.UserRepo
             return _ehrContext.Usertable.FirstOrDefault(e => e.Username == username && e.Password == password);
         }
 
+        public void UpdateUser(User olddata, User newdata)
+        {
+            _ehrContext.Entry<User>(olddata).CurrentValues.SetValues(newdata);
+            _ehrContext.SaveChanges();
+        }
+
     }
 }

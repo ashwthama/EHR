@@ -8,5 +8,6 @@ namespace EHR.Repo.UserRepo
         List<User> ListOfUser();
         User LoginUser(string username, string password);
         void RegisterUser(User userValue);
+        void UpdateUser(User olddata, User newdata);
     }
 }
