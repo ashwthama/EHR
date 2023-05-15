@@ -18,7 +18,8 @@ namespace EHR.Domain.Model
         public string Password { get; set; }
         public string Usertype { get; set; }
         public string Address { get; set; }
-        public string Occupation { get; set; }
+        public string Department { get; set; }
+        public double Fee { get; set; }
         public string ProfileImg { get; set; }
 
     }
