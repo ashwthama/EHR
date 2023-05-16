@@ -12,5 +12,6 @@ namespace EHR.Domain.Context
         {
             public EhrContext(DbContextOptions options) : base(options) { }
             public DbSet<User> Usertable { get; set; }
-        }
+            public DbSet<Appointment> AppointmentDb { get; set; }
+    }
 }

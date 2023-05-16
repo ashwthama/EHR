@@ -1,4 +1,5 @@
 using EHR.Domain.Context;
+using EHR.Repo.AppointmentRepo;
 using EHR.Repo.UserRepo;
 using EHR.Service.UserServices;
 using Microsoft.EntityFrameworkCore;
@@ -9,8 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<EhrContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("ConnStr")));
 
-builder.Services.AddScoped<IUserRepository,UserRepository>();
+builder.Services.AddScoped<IUserRepository,UserRepository>(); 
 builder.Services.AddTransient<IUserService,UserService>();
+builder.Services.AddScoped<IAppointmentRepository, AppointmentRepository>(); 
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
