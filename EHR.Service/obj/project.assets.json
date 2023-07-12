@@ -2772,11 +2772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Git\\EHR\\EHR.Service\\EHR.Service.csproj",
+      "projectUniqueName": "F:\\Git\\Ehr1\\EHR\\EHR.Service\\EHR.Service.csproj",
       "projectName": "EHR.Service",
-      "projectPath": "F:\\Git\\EHR\\EHR.Service\\EHR.Service.csproj",
+      "projectPath": "F:\\Git\\Ehr1\\EHR\\EHR.Service\\EHR.Service.csproj",
       "packagesPath": "C:\\Users\\Ashwani Kumar\\.nuget\\packages\\",
-      "outputPath": "F:\\Git\\EHR\\EHR.Service\\obj\\",
+      "outputPath": "F:\\Git\\Ehr1\\EHR\\EHR.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ashwani Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2793,8 +2793,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Git\\EHR\\EHR.Repo\\EHR.Repo.csproj": {
-              "projectPath": "F:\\Git\\EHR\\EHR.Repo\\EHR.Repo.csproj"
+            "F:\\Git\\Ehr1\\EHR\\EHR.Repo\\EHR.Repo.csproj": {
+              "projectPath": "F:\\Git\\Ehr1\\EHR\\EHR.Repo\\EHR.Repo.csproj"
             }
           }
         }

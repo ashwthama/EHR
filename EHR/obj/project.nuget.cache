@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUROy435pL+DfBBS9sRgIQzZxXj6BBtf5vwaxXbRuuBlNOmM+VWoWSXHS+NELg8TpvTrpkWUPy5Xz638gE0Wqw==",
+  "dgSpecHash": "qTvRHxyZ/46IKQ/LryG7dbIQRBoBW7T5dJTfoaombzzrx9rb+1rSOJp1kcABNTHVXwcBEFME7ahXS0q2TDJJVQ==",
   "success": true,
-  "projectFilePath": "F:\\Git\\EHR\\EHR\\EHR.csproj",
+  "projectFilePath": "F:\\Git\\Ehr1\\EHR\\EHR\\EHR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ashwani Kumar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ashwani Kumar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -2732,11 +2732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Git\\EHR\\EHR.Domain\\EHR.Domain.csproj",
+      "projectUniqueName": "F:\\Git\\Ehr1\\EHR\\EHR.Domain\\EHR.Domain.csproj",
       "projectName": "EHR.Domain",
-      "projectPath": "F:\\Git\\EHR\\EHR.Domain\\EHR.Domain.csproj",
+      "projectPath": "F:\\Git\\Ehr1\\EHR\\EHR.Domain\\EHR.Domain.csproj",
       "packagesPath": "C:\\Users\\Ashwani Kumar\\.nuget\\packages\\",
-      "outputPath": "F:\\Git\\EHR\\EHR.Domain\\obj\\",
+      "outputPath": "F:\\Git\\Ehr1\\EHR\\EHR.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ashwani Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",

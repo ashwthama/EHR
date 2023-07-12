@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Git\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj": {}
+    "F:\\Git\\Ehr1\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj": {}
   },
   "projects": {
-    "F:\\Git\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj": {
+    "F:\\Git\\Ehr1\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Git\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj",
+        "projectUniqueName": "F:\\Git\\Ehr1\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj",
         "projectName": "EHR.ViewModel",
-        "projectPath": "F:\\Git\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj",
+        "projectPath": "F:\\Git\\Ehr1\\EHR\\EHR.ViewModel\\EHR.ViewModel.csproj",
         "packagesPath": "C:\\Users\\Ashwani Kumar\\.nuget\\packages\\",
-        "outputPath": "F:\\Git\\EHR\\EHR.ViewModel\\obj\\",
+        "outputPath": "F:\\Git\\Ehr1\\EHR\\EHR.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ashwani Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
